@@ -18,7 +18,7 @@ function tratamentoDeDados(data) {
      
         <img src="${element.image}" alt="">
         <div class="name">${element.name}</div>
-        <a href="${element.link}"><button type="button" class="btn btn-secondary">Comprar</button></a>
+        <a href="${element.link}" target="_blank" class="btn btn-secondary">Comprar</a>
    
      
     `;

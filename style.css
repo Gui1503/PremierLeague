@@ -13,7 +13,6 @@ header {
   font-size: 25px;
 }
 
-
 /*definindo uma animação para minha bola*/
 .fa-futbol {
   animation: rotate 1.3s infinite linear;
@@ -193,9 +192,6 @@ footer p {
   color: rgb(255, 0, 0);
   font-style: italic;
 }
-
-
-
 
 .redes i {
   font-size: 30px;
